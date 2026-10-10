@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Example product listing — replace this entry",
+    "url": "",
+    "in_stock_terms": ["add to cart", "in stock", "available now"],
+    "out_of_stock_terms": ["sold out", "out of stock", "currently unavailable"]
+  }
+]

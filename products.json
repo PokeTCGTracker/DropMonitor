@@ -1,27 +1,11 @@
 [
   {
-    "name": "elite trainer box",
-    "url": "https://www.pokemoncenter.com/",
-    "in_stock_terms": ["add to cart", "in stock", "available now"],
-    "out_of_stock_terms": ["sold out", "out of stock", "currently unavailable"]
+   "name": "30th Celebration Pokemon Center Elite Trainer Box",
+    "retailer": "pokemon-center", "target",
+    "url": "https://www.pokemoncenter.com/product/10-10447-111/pokemon-tcg-30th-celebration-pokemon-center-elite-trainer-box", "https://www.target.com/p/pokemon-tcg-30th-celebration-pokemon-center-elite-trainer-box/-/A-1014376421",
+    "retail price": "59.99"
+    "type": "Pokemon Center ETB",
+    "exclusive": "true"
   }
 ]
-[
-  {
-    "retailer": "pokemon-center",
-    "product type": "ETB",
-    "product name": "official product name"
-    "product url": "direct listing page"
-    "retail price ceiling": "59.99"
-    "exclusive": "true" or "false"
-  }
-]
-[
-  {
-    "retailer": "pokemon-center",
-    "url": "https://www.pokemoncenter.com/",
-    "product type": "elite trainer box", "pokemon center elite trainer box", "booster bundle", "booster pack", "booster display box",
-    "in stock terms": "available now",
-    "out of stock terms": "sold out"
-  }
-]
+    
